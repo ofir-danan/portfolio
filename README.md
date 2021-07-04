@@ -8,7 +8,7 @@ Loves challenges and problem solving and always thinking outside the box.
 
 Skills: REACT / JS / HTML / CSS / AWS / Node.js / express / MongoDB / SQL / Docker 
 
-Portfolio : ([Here](ofirdanan.netlify.com))
+Portfolio : ([Here](https://ofirdanan.netlify.app))
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ofir-danan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ofir-danan/)  
 
